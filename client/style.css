@@ -1,0 +1,21 @@
+.startDate {
+    margin: 20px;
+}
+
+.endDate {
+    margin: 20px;
+}
+
+.curr {
+    margin: 20px;
+}
+
+.getCurr {
+    text-align: center;
+    margin-left: 100px;
+}
+
+#line-chart {
+    max-height: 600px;
+    max-width: 700px;
+}
